@@ -1,0 +1,13 @@
+name: PpVanish
+version: 1.0-SNAPSHOT
+main: com.pepe.ppvanish.PpVanish
+api-version: 1.16
+authors: [ EuropeanPepe ]
+description: Vanish aka Disapear
+website: pepecraft.com
+commands:
+  ppvanish:
+    description: vanish
+    aliases: []
+permissions:
+  ppvanish.vanish
